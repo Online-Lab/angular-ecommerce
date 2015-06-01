@@ -90,7 +90,7 @@
     "update-webdriver": "node node_modules/grunt-protractor-runner/node_modules/protractor/bin/webdriver-manager update"
   },
   "private": true,
-  "description": "angular-ecommerce front-end solution",
+  "description": "multiplatform front-end solution",
   "repository": {
     "type": "git",
     "url": "https://github.com/Online-Lab/angular-ecommerce.git"
